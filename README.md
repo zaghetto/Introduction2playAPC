@@ -5,8 +5,10 @@ Download playAPC from http://playapc.zaghetto.com
 
 Authors:
 
-Sinayra Moreira
-
 Alexandre Zaghetto
 
+Sinayra Moreira
+https://github.com/sinayra
+
 Mateus Mendelson
+https://github.com/mendelson
